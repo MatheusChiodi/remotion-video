@@ -1,0 +1,19 @@
+{
+  "voice": "faber",
+  "speed": 1,
+  "gapSec": 0.35,
+  "lines": [
+    {
+      "id": "01-hook",
+      "text": "Você ainda grava a narração dos seus vídeos na mão?"
+    },
+    {
+      "id": "02-body",
+      "text": "Agora o roteiro vira voz automaticamente, sincronizada com cada cena."
+    },
+    {
+      "id": "03-cta",
+      "text": "Escreva o texto, rode um comando e renderize. Simples assim."
+    }
+  ]
+}

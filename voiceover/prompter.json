@@ -1,0 +1,54 @@
+{
+  "voice": "faber",
+  "speed": 1,
+  "lines": [
+    {
+      "id": "01-hook",
+      "at": 0.3,
+      "text": "Grava vídeo tech em português? O prompter por voz trava."
+    },
+    {
+      "id": "02-problem",
+      "at": 3.8,
+      "text": "Ele escuta riact, deploi... e o texto para de rolar."
+    },
+    {
+      "id": "03-reveal",
+      "at": 7.8,
+      "text": "Conheça o Prompter MChiodi."
+    },
+    {
+      "id": "04-demo",
+      "at": 10.8,
+      "text": "Ele segue sua voz palavra por palavra, entende os termos técnicos e respeita as marcações de corte."
+    },
+    {
+      "id": "05-matcher",
+      "at": 19.8,
+      "text": "O segredo: ele compara pelo som da palavra, não pela grafia."
+    },
+    {
+      "id": "06-features",
+      "at": 25.2,
+      "text": "Roteiro em Markdown, pausa quando você para, e funciona até sem Claude Code."
+    },
+    {
+      "id": "07-cta",
+      "at": 30.8,
+      "text": "Open source e gratuito. O link está nos comentários."
+    }
+  ],
+  "score": {
+    "duration": 35.5,
+    "transpose": -2,
+    "cuts": [
+      3.5,
+      10.5,
+      19.5,
+      25,
+      30.5
+    ],
+    "reveal": 7.5,
+    "pulseFrom": 7.5
+  }
+}

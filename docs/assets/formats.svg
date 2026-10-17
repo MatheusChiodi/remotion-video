@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 400" role="img" aria-labelledby="formats-title formats-desc">
+<title id="formats-title">One composition, every feed</title>
+<desc id="formats-desc">Four aspect ratios rendered from the same React code: 9:16 for short-form video, 4:5 for LinkedIn and Instagram, 1:1 square and 16:9 widescreen.</desc>
+<rect width="1280" height="400" rx="18" fill="#f5f5f5" stroke="rgba(45,49,66,0.12)"/>
+<text x="640" y="50" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="3" fill="#4f5d75">SAME REACT CODE · FOUR ASPECT RATIOS</text>
+<g>
+  <rect x="159.97222222222223" y="96" width="112.5" height="200" rx="10" fill="#ffffff" stroke="#2d3142" stroke-width="1"/>
+  <rect x="173.47222222222223" y="109.5" width="47.25" height="7" rx="3.5" fill="#2d3142" opacity="0.85"/>
+  <rect x="173.47222222222223" y="125.5" width="67.5" height="7" rx="3.5" fill="#2d3142" opacity="0.25"/>
+  <rect x="173.47222222222223" y="168" width="85.5" height="68" rx="6" fill="#4f5d75" opacity="0.18"/>
+  <rect x="173.47222222222223" y="266.5" width="45" height="16" rx="8" fill="#bf4520"/>
+  <text x="216.22222222222223" y="330" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="18" font-weight="600" fill="#2d3142">9:16</text>
+  <text x="216.22222222222223" y="352" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#4f5d75">Reels · Shorts · TikTok</text>
+  <text x="216.22222222222223" y="370" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5a6580">5 compositions</text>
+</g>
+<g>
+  <rect x="316.47222222222223" y="96" width="160" height="200" rx="10" fill="rgba(191,69,32,0.06)" stroke="#bf4520" stroke-width="1.6"/>
+  <rect x="335.6722222222222" y="115.2" width="67.2" height="7" rx="3.5" fill="#2d3142" opacity="0.85"/>
+  <rect x="335.6722222222222" y="131.2" width="96" height="7" rx="3.5" fill="#2d3142" opacity="0.25"/>
+  <rect x="335.6722222222222" y="168" width="121.6" height="68" rx="6" fill="#bf4520" opacity="0.85"/>
+  <rect x="335.6722222222222" y="260.8" width="64" height="16" rx="8" fill="#bf4520"/>
+  <text x="396.47222222222223" y="330" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="18" font-weight="600" fill="#bf4520">4:5</text>
+  <text x="396.47222222222223" y="352" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#4f5d75">LinkedIn · Instagram feed</text>
+  <text x="396.47222222222223" y="370" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5a6580">4 compositions</text>
+</g>
+<g>
+  <rect x="520.4722222222222" y="96" width="200" height="200" rx="10" fill="#ffffff" stroke="#2d3142" stroke-width="1"/>
+  <rect x="544.4722222222222" y="120" width="84" height="7" rx="3.5" fill="#2d3142" opacity="0.85"/>
+  <rect x="544.4722222222222" y="136" width="120" height="7" rx="3.5" fill="#2d3142" opacity="0.25"/>
+  <rect x="544.4722222222222" y="168" width="152" height="68" rx="6" fill="#4f5d75" opacity="0.18"/>
+  <rect x="544.4722222222222" y="256" width="64" height="16" rx="8" fill="#bf4520"/>
+  <text x="620.4722222222222" y="330" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="18" font-weight="600" fill="#2d3142">1:1</text>
+  <text x="620.4722222222222" y="352" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#4f5d75">Square feed</text>
+  <text x="620.4722222222222" y="370" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5a6580">3 compositions</text>
+</g>
+<g>
+  <rect x="764.4722222222222" y="96" width="355.55555555555554" height="200" rx="10" fill="#ffffff" stroke="#2d3142" stroke-width="1"/>
+  <rect x="788.4722222222222" y="120" width="149.33333333333331" height="7" rx="3.5" fill="#2d3142" opacity="0.85"/>
+  <rect x="788.4722222222222" y="136" width="213.33333333333331" height="7" rx="3.5" fill="#2d3142" opacity="0.25"/>
+  <rect x="788.4722222222222" y="168" width="307.55555555555554" height="68" rx="6" fill="#4f5d75" opacity="0.18"/>
+  <rect x="788.4722222222222" y="256" width="64" height="16" rx="8" fill="#bf4520"/>
+  <text x="942.25" y="330" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="18" font-weight="600" fill="#2d3142">16:9</text>
+  <text x="942.25" y="352" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#4f5d75">YouTube · web</text>
+  <text x="942.25" y="370" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5a6580">2 compositions</text>
+</g>
+</svg>

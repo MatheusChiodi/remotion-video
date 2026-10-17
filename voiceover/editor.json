@@ -1,0 +1,61 @@
+{
+  "voice": "faber",
+  "speed": 1,
+  "lines": [
+    {
+      "id": "01-hook",
+      "at": 0.4,
+      "text": "Eu gravo o vídeo. O resto, o Claude faz sozinho."
+    },
+    {
+      "id": "02-in-out",
+      "at": 4.9,
+      "text": "Entra o vídeo bruto. Sai editado, com short, capas, títulos e capítulos."
+    },
+    {
+      "id": "03-reads-text",
+      "at": 11.5,
+      "text": "Ele não assiste. Ele lê a transcrição e corta os retakes, palavra por palavra."
+    },
+    {
+      "id": "04-edl-loop",
+      "at": 17.6,
+      "text": "Cada versão é avaliada e refeita, até o corte ficar redondo."
+    },
+    {
+      "id": "05-arsenal",
+      "at": 23.7,
+      "text": "São mais de cem efeitos, componentes e entradas animadas."
+    },
+    {
+      "id": "06-levels",
+      "at": 28.3,
+      "text": "Você escolhe a intensidade: do corte limpo ao modo máximo."
+    },
+    {
+      "id": "07-cut",
+      "at": 33.4,
+      "text": "Quer ajustar à mão? Abre o MChiodi Cut e refina."
+    },
+    {
+      "id": "08-cta",
+      "at": 38.5,
+      "text": "Seu vídeo bruto vira vídeo publicado. Editor MChiodi, open source no GitHub."
+    }
+  ],
+  "score": {
+    "duration": 44.7,
+    "transpose": 0,
+    "cuts": [
+      4.6,
+      11.2,
+      17.3,
+      23.4,
+      28,
+      33.1,
+      38.2
+    ],
+    "reveal": 38.2,
+    "pulseFrom": 11.2
+  }
+}
