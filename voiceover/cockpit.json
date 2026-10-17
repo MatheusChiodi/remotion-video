@@ -1,0 +1,54 @@
+{
+  "voice": "faber",
+  "speed": 1,
+  "lines": [
+    {
+      "id": "01-hook",
+      "at": 0.3,
+      "text": "Usa o Claude Code olhando só pro prompt?"
+    },
+    {
+      "id": "02-pain",
+      "at": 3.4,
+      "text": "Pilotar sem painel é voar às cegas."
+    },
+    {
+      "id": "03-reveal",
+      "at": 7.3,
+      "text": "Conheça o Cockpit: um painel de instrumentos pro Claude Code."
+    },
+    {
+      "id": "04-panel",
+      "at": 11.4,
+      "text": "Contexto, custo do dia, branch do git e status do projeto. Tudo na tela, enquanto você trabalha."
+    },
+    {
+      "id": "05-guards",
+      "at": 21.2,
+      "text": "E quarenta e dois guards seguram comandos perigosos antes de rodar."
+    },
+    {
+      "id": "06-stats",
+      "at": 27.1,
+      "text": "Trezentos e nove mods. Cinquenta e dois painéis."
+    },
+    {
+      "id": "07-cta",
+      "at": 31,
+      "text": "Instale com uma linha. Open source, em português, inglês e espanhol."
+    }
+  ],
+  "score": {
+    "duration": 37.6,
+    "transpose": 3,
+    "cuts": [
+      3.1,
+      10.3,
+      20.9,
+      26.8,
+      30.6
+    ],
+    "reveal": 7.03,
+    "pulseFrom": 7.03
+  }
+}
